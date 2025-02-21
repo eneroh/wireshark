@@ -16,7 +16,7 @@ When unsure what to look for just do the base command of http.request without op
 
 Then filter further from what results are shown.
 
-## HTTPS decoding
+## HTTPS decrypting
 Requires tls keyfile
 
 Source - Method 1: https://unit.42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic

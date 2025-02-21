@@ -5,6 +5,7 @@ Housing my wireshark knowledge and understanding surrounding network traffic ana
 
 ## Operations
 contains - very forgiving for any instance of string/numbers are present
+<br>
 == - exact match
 
 ## Regex
